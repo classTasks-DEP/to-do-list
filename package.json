@@ -3,11 +3,18 @@
   "version": "0.1.0",
   "description": "Copyright (c) 2022 DEP8. All Rights Reserved.",
   "main": "index.js",
-  "scripts": {},
+  "source":"src/index.html",
+  "scripts": {
+    "watch": "tsc --watch",
+    "build": "parcel build",
+    "start": "parcel"
+  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/classTasks-DEP/to-do-list.git"
   },
+
   "keywords": [],
   "author": "Thanura Silva | Nalin Geeganage",
   "license": "MIT",
