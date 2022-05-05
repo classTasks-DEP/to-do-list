@@ -17,5 +17,8 @@
   "homepage": "https://github.com/classTasks-DEP/to-do-list#readme",
   "devDependencies": {
     "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "admin-lte": "^3.2.0"
   }
 }
