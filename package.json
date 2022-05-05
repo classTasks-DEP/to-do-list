@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "Copyright (c) 2022 DEP8. All Rights Reserved.",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/classTasks-DEP/to-do-list.git"
@@ -16,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/classTasks-DEP/to-do-list/issues"
   },
-  "homepage": "https://github.com/classTasks-DEP/to-do-list#readme"
+  "homepage": "https://github.com/classTasks-DEP/to-do-list#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
 }
