@@ -4,7 +4,7 @@
   "description": "Copyright (c) 2022 DEP8. All Rights Reserved.",
   "main": "index.js",
   "source": [
-    "src/index.html"
+    "src/index.html","src/login-form.html","src/main-UI.html"
   ],
   "scripts": {
     "watch": "tsc --watch",
@@ -26,7 +26,6 @@
     "parcel": "^2.5.0"
   },
   "dependencies": {
-    "admin-lte": "^3.2.0",
-    "bootstrap": "^5.1.3"
+    "admin-lte": "^3.2.0"
   }
 }
