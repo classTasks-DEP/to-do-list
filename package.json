@@ -4,7 +4,7 @@
   "description": "Copyright (c) 2022 DEP8. All Rights Reserved.",
   "main": "index.js",
   "source": [
-    "src/index.html","src/login-form.html","src/main-UI.html"
+    "src/index.html","src/login-form.html","src/welcome.html","src/sign-up.html"
   ],
   "scripts": {
     "watch": "tsc --watch",
