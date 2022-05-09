@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+#outer{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#theme h1{
+    color: white;
+    font-size: 5rem;
+    font-family: 'Goldman', cursive;
+}
+#theme{
+    position: relative;
+    top: 200px;
+    left: 650px;
+
+}
+#btn-pane{
+    position: absolute;
+    top: 400px;
+    margin-left: 0;
+
+}
+#btn-pane .btn{
+    margin-top: 20px;
+    width: 400px;
+}
